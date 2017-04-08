@@ -36,6 +36,26 @@ This program makes use of libraries such as:
  - Matplotlib
  - Numpy
  - mpl_toolkits.mplot3d (Axes3D)
+ 
+Average Power of each type:
+ - Dragon     550.53125
+ - Grass     421.14285714285717
+ - Ghost     439.5625
+ - Steel     487.7037037037037
+ - Electric     443.40909090909093
+ - Dark     445.741935483871
+ - Rock     453.75
+ - Water     430.45535714285717
+ - Normal     401.68367346938777
+ - Bug     378.92753623188406
+ - Fighting     416.44444444444446
+ - Fairy     413.1764705882353
+ - Flying     485.0
+ - Poison     399.14285714285717
+ - Ice     433.4583333333333
+ - Fire     458.0769230769231
+ - Ground     437.5
+ - Psychic     475.94736842105266
 
 
  - Average Power comparison between Grass Type, Fire Type and Water Type Pokemons.
