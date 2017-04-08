@@ -5,7 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 plt.style.use('ggplot')
 
-df = pd.read_csv("C:\Eddy\Workspace\Machine Learning\Pokemon\Pokemon.csv")
+df = pd.read_csv("File-Path")
 #print(df.head())
 
 
