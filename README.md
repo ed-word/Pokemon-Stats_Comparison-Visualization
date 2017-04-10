@@ -62,9 +62,44 @@ Average Power of each type:
 
 
 ----------
+Colors Used To Represent Pokemon types
+http://www.epidemicjohto.com/t882-type-colors-hex-colors
 
+![enter image description here](https://lh3.googleusercontent.com/-rGLDKQikvG8/WOtmLXzUF7I/AAAAAAAABlM/s_NUvFdE4Bc6WFdQDCCwVDP4rg_s6forQCLcB/s0/legend.png "legend.png")
 
- - Average Power comparison between Grass Type, Fire Type and Water Type Pokemons.
+----------
+
+ - 
+
+3D Scatter Plot of all Pokemons
+-------------------------------
+
+     1. X-axis: Attack
+     2. Y-axis: Defense
+     3. Z- axis: HP
+ 
+ ![](https://lh3.googleusercontent.com/-HaEPss6ZoLA/WOkuy0jfqxI/AAAAAAAABjY/IT1PtlgN_gYYl39ebuvKatovNhyrg_LdwCLcB/s0/3D.png "3D.png")
+ 
+
+----------
+
+Comparison Of Attack, Defense, HP and Speed
+-------------------------------------------
+
+ 
+
+![enter image description here](https://lh3.googleusercontent.com/-i7kxITcW-T4/WOtmbR6wKqI/AAAAAAAABlU/yfhCFLDRsZcNfSrmYP2dEniRPuiTN-YUQCLcB/s0/Main+bar.png "Main bar.png")
+
+----------
+
+ 
+
+Average Power comparison
+------------------------
+
+ 
+
+ - Grass Type, Fire Type and Water Type Pokemons.
 ![](https://lh3.googleusercontent.com/-lBRYey9Tr_s/WOksg-WEHzI/AAAAAAAABic/ZnYN7osc7MsYLiRIYALN9VGpphTEXjwbQCLcB/s0/figure_1-1.png "figure_1-1.png")
 
 
@@ -80,11 +115,4 @@ Average Power of each type:
 ![](https://lh3.googleusercontent.com/-i6Cy6Zora_w/WOkuVNWlLhI/AAAAAAAABjA/pXhe4VHbpioa-OQUX1Eu57FK-GeLSjmFwCLcB/s0/figure_4.png "figure_4.png")
 
 
-
-3D Scatter Plot of all Pokemons
-
- - X-axis: Attack
- - Y-axis: Defense
- - Z- axis: HP
- 
- ![](https://lh3.googleusercontent.com/-HaEPss6ZoLA/WOkuy0jfqxI/AAAAAAAABjY/IT1PtlgN_gYYl39ebuvKatovNhyrg_LdwCLcB/s0/3D.png "3D.png")
+----------
