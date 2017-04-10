@@ -69,6 +69,8 @@ http://www.epidemicjohto.com/t882-type-colors-hex-colors
 
 ----------
 
+
+
 3D Scatter Plot of all Pokemons
 -------------------------------
 
@@ -80,6 +82,8 @@ http://www.epidemicjohto.com/t882-type-colors-hex-colors
  
 
 ----------
+
+
 
 Comparison Of Attack, Defense, HP and Speed
 -------------------------------------------
