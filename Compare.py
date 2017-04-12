@@ -12,7 +12,10 @@ new_df = pd.read_csv("Pokemon.csv")
 
 ###############################################################################################
 
-Pokemon1_name = 'Mewtwo'
+#Pokemon1_name = input()
+#Pokemon2_name = input()		#Taking Input for Pokemons to compare
+				
+Pokemon1_name = 'Mewtwo'	
 Pokemon2_name = 'Articuno'
 
 Pokemon1 = new_df.loc[ new_df['Name']==Pokemon1_name ]
