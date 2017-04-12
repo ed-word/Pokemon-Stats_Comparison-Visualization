@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 import numpy as np
 plt.style.use('ggplot')
 
-new_df = pd.read_csv("C:\Eddy\Workspace\Machine Learning\Pokemon\Pokemon.csv")
+new_df = pd.read_csv("Pokemon.csv")
 #print(new_df.head())
 
 
