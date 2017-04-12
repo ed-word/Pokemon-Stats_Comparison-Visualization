@@ -1,4 +1,4 @@
-## Pokemon Stats Comparison##
+## Pokemon Stats Comparison ##
 
 **Compares Stats of any 2 Pokemons.**
 
