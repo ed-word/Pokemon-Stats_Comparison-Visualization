@@ -2,6 +2,9 @@
 
 [Pokemon Stats Kaggle Dataset](https://www.kaggle.com/abcsds/pokemon)
 
+My Kernel
+https://www.kaggle.com/edword/d/abcsds/pokemon/stats-comparison-3d-scatter-plot
+
 This dataset includes 721 Pokemon.
 The various types of Pokemons in this dataset are:
 
